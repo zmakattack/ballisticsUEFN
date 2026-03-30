@@ -1,4 +1,4 @@
-<img width="977" height="744" alt="image" src="https://github.com/user-attachments/assets/f1dc226d-96f3-46be-9d44-35a2cf24ad55" /># ballisticsUEFN
+# ballisticsUEFN
 Here is a brief tutorial on how to set up my balistics shop in your fortnite maps
 before you import anything into the project make sure custom items and inventories is enabled otherwise this will not work
 <img width="1257" height="863" alt="image" src="https://github.com/user-attachments/assets/132a3b01-350e-4666-a5a0-f884b2417db0" />
@@ -18,6 +18,8 @@ Now make sure you compile verse code
 
 
 Once that is all done you can open the Ballistics folder and drag in the default shop entity into the level and launch a session, you should be able to load into a game and purchase items from it
+<img width="1422" height="965" alt="image" src="https://github.com/user-attachments/assets/74bd2ecb-effd-47d2-9c4e-b736feea1364" />
+
 <img width="1917" height="1071" alt="image" src="https://github.com/user-attachments/assets/385b77d2-831e-4cf7-846c-affa9b0303af" />
 
 
