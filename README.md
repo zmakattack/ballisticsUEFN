@@ -18,6 +18,7 @@ Now make sure you compile verse code
 
 
 Once that is all done you can open the Ballistics folder and drag in the default shop entity into the level and launch a session, you should be able to load into a game and purchase items from it
+<img width="1917" height="1071" alt="image" src="https://github.com/user-attachments/assets/385b77d2-831e-4cf7-846c-affa9b0303af" />
 
 
 By default you will see that no flex gadget shows up in your player info panel and your currency isn't being spent
