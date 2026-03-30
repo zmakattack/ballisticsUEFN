@@ -1,4 +1,4 @@
-# ballisticsUEFN
+# ballisticsUEFN (Basic UEFN knowledge is required to follow this)
 Here is a brief tutorial on how to set up my balistics shop in your fortnite maps
 before you import anything into the project make sure custom items and inventories is enabled otherwise this will not work
 <img width="1257" height="863" alt="image" src="https://github.com/user-attachments/assets/132a3b01-350e-4666-a5a0-f884b2417db0" />
